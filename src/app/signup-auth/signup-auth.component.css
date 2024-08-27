@@ -1,0 +1,26 @@
+.signup{
+    padding: 5% 40%;
+    .heading{
+        font-size: 30px;
+        height: 55px;
+        text-align: center;
+    }
+    .foorm{
+        .form{
+            display: flex;
+            flex-direction: column;
+            .input{
+                margin-bottom: 15px;
+                height: 28px;
+                border: 1px solid #966dd8;
+                border-radius: 6px;
+            }
+            .btn{
+                height: 25px;
+                border-radius: 7px;
+                width: 100px;
+                margin-left: 32%;
+            }
+        }
+    }
+}
